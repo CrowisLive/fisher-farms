@@ -4,8 +4,8 @@ window.SITE_INDEX = [
  {
   "page": "Home",
   "url": "index.html#disciplines",
-  "title": "Four ways to break a clay",
-  "text": "What you can shoot Four ways to break a clay Every discipline here uses a shotgun and a clay target. What changes is where the target comes from and how much it is trying to fool you. Course Sporting clays Fourteen stations, each a different presentation — long crossers, springing teal, rabbits bouncing along the ground. Walk it or take a cart. Often called golf with a shotgun. Field Trap Targets thrown away from you from a single house, five stations, twenty-five birds to a round. The most forgiving place to start. Field Skeet High house and low house, eight stations, crossing targets at know",
+  "title": "Three stands, one weekend",
+  "text": "What you can shoot Three stands, one weekend Same shotgun, same clay target. What changes is where it comes from and how hard it is trying to fool you. The one to try Live Action Duck and dove flight patterns thrown by eight Atlas machines firing multi-directionally, so no two targets come from the same place. Duck runs high, fast, crossing, angled and looping; dove comes low and straight, rising and falling. Unpredictable on purpose — and every pattern is simulated, with no live birds. Stand Trap Targets thrown away from you from a single house. The most forgiving place to start, and the one ",
   "tags": [
    "sporting clays",
    "trap",
@@ -20,7 +20,7 @@ window.SITE_INDEX = [
   "page": "Home",
   "url": "index.html#first-time",
   "title": "Start here, not on YouTube",
-  "text": "Never shot clays? Start here, not on YouTube Tell the desk it is your first time. Orientation is free, takes about twenty minutes, and covers gun fit, mount, eye dominance and the range commands. Then a coach walks you onto a station and stays until you are breaking targets. You do not need to own a shotgun, and you do not need to know anything. Bring closed-toe shoes and a hat with a brim — we have everything else. Read the FAQ Range rules What a first visit looks like Sign the waiver at the clubhouse desk — two minutes. Free loaner eye and ear protection, fitted before you walk out. Twenty-m",
+  "text": "Never shot clays? Start here, not on YouTube Tell us at the stand that it is your first time. Somebody will go over gun handling, how the machines throw, and what the station menus mean before you shoot anything. Bring your own shotgun and closed-toe shoes and a hat with a brim. Eye and ear protection is required past the stand — the posted notice is not a suggestion. Shells are for sale at the clubhouse. Read the FAQ Range rules What a first visit looks like Check in at the stand and say it is your first time. Eye and ear protection on before you step up. Action stays open until you are on th",
   "tags": [
    "beginner",
    "new",
@@ -34,8 +34,8 @@ window.SITE_INDEX = [
  {
   "page": "Home",
   "url": "index.html#photos",
-  "title": "Ninety acres, thirty-one stations",
-  "text": "The property Ninety acres, thirty-one stations Photographs of the course, the fields and the clubhouse go here. Photo 01Sporting course — a station in the treeline Photo 02Trap field at golden hour Photo 03Clubhouse and the gun racks Photo 04Someone breaking a target, mid-shot Photo 05The cart path through the hardwoods Photo 06A squad of four walking the course",
+  "title": "Where you will be standing",
+  "text": "The property Where you will be standing Off Seed Town Road in Fosters, twenty-odd minutes southwest of Tuscaloosa. The stand, the tables and somewhere to park the Ranger. Station one, menu posted on the post. Live Action runs weekends only. The pond at the edge of the property.",
   "tags": [
    "pictures",
    "gallery",
@@ -46,8 +46,8 @@ window.SITE_INDEX = [
  {
   "page": "Rates",
   "url": "rates.html#targets",
-  "title": "Targets & equipment",
-  "text": "Everything below is per shooter, per visit. Members pay the discounted column. Target prices and rentals ItemPublicMember Sporting clays, 100 targets $70.00 $58.00 Sporting clays, 50 targets $38.00 $32.00 Trap, round of 25 $9.00 $6.00 Skeet, round of 25 $9.00 $6.00 5-Stand, round of 25 $12.00 $9.00 Cart rental, one trip round the course $25.00 $20.00 Shotgun rental, 12 or 20 gauge $20.00 $15.00 Shells, box of 25 $11.00 $10.00 Eye & ear protection, loaner Free Free Youth 17 & under, trap & skeet −50% −50% Prices shown are placeholders for this draft — swap in the club's real numbers before laun",
+  "title": "What we shoot",
+  "text": "Three stands, all of them weekend-only. Pricing is set at the clubhouse — call and we will tell you exactly what your round costs before you drive out. Stands StandPrice Live Action — duck & dove simulation Call Trap Call Skeet Call Call (205) 821-4879 for current pricing.",
   "tags": [
    "price",
    "prices",
@@ -61,23 +61,16 @@ window.SITE_INDEX = [
  },
  {
   "page": "Rates",
-  "url": "rates.html#membership",
-  "title": "Memberships",
-  "text": "Annual, running twelve months from the day you join rather than to a fixed date. Membership pays for itself at roughly twenty-nine rounds of a hundred sporting targets a year — about every other weekend. Individual $349 / year $12 off every hundred sporting targets $3 off every round of trap or skeet Priority squad times on weekends League entry at member rate Four guest passes a year Family $549 / year · household Everything above, for two adults Dependents under 18 at the youth rate Six guest passes a year Punch card $80 / 10 rounds of 25 No membership needed, never expires Transferable — go",
-  "tags": [
-   "member",
-   "join",
-   "annual",
-   "dues",
-   "punch card",
-   "discount"
-  ]
+  "url": "rates.html#clubhouse",
+  "title": "At the clubhouse",
+  "text": "Ammunition is sold here, so you do not have to haul a case of shells across the county to shoot a round. Snacks and cold drinks too — an Alabama Saturday on an open field earns both. Check in at the clubhouse before you head out to a stand. Sold on site Ammunition Snacks Cold drinks Bring your own gun We do not rent shotguns, so bring one that works and that fits you. Any shotgun in safe working order is welcome — see the gun and ammunition rules before you load up.",
+  "tags": []
  },
  {
   "page": "Rates",
   "url": "rates.html#groups",
-  "title": "Groups, leagues & instruction",
-  "text": "Corporate outings, fundraisers, bachelor and bachelorette parties, birthdays. We staff the stations, run the scoring and can put an instructor with every squad so nobody stands around confused. Ask about leagues and about instruction for individuals and small groups — both are booked through the clubhouse. Call the clubhouse to book — group pricing depends on head count, target volume and whether you want food. Payment & policies Cash and major cards accepted. No personal checks. Pay at the clubhouse before you go out, not at the station. Unused targets on a hundred-target card carry to your n",
+  "title": "Groups & events",
+  "text": "Bringing a crowd — a company outing, a fundraiser, a birthday, a bachelor party? Call ahead so we can have the stands and the machines ready for you rather than fitting you in around a busy Saturday. Call (205) 821-4879 to talk it through. Before you come Open Saturdays and Sundays only. Bring your own shotgun — there are no rentals. Ammunition, snacks and drinks are available at the clubhouse. Eye and ear protection is required in the shooting area. Cash and card both accepted at the clubhouse. Call ahead if you are bringing a group. We shoot in rain and cold. Lightning closes the stands.",
   "tags": [
    "corporate",
    "party",
@@ -117,7 +110,7 @@ window.SITE_INDEX = [
   "page": "Rules",
   "url": "rules.html#house",
   "title": "House rules",
-  "text": "Shotguns only. No rifles, no handguns. Actions open and empty everywhere except on the station. Load a maximum of two shells, and only when it is your turn to shoot. Muzzles point up or down — never level, never at a person. Eye and ear protection for everyone on the fields, spectators included. Stay behind the shooting station; stay on the cart paths on the course. No alcohol before or during shooting. None carried on the course. Shooters under 18 must be accompanied by a parent or guardian. Pick up your hulls before you leave the station. Dogs on lead, clubhouse side of the gate only. No sho",
+  "text": "Shotguns only. No rifles, no handguns. Actions open and empty everywhere except on the stand — it is the posted rule here. Load a maximum of two shells, and only when it is your turn to shoot. Muzzles point up or down — never level, never at a person. Eye and ear protection for everyone on the fields, spectators included. Stay behind the stand unless you are the one shooting. No alcohol before or during shooting. Shooters under 18 must be accompanied by a parent or guardian. Pick up your hulls before you leave the station. Dogs on lead, clubhouse side only. No shooting at wildlife, ever, for a",
   "tags": [
    "rules",
    "regulations",
@@ -131,7 +124,7 @@ window.SITE_INDEX = [
   "page": "Rules",
   "url": "rules.html#ammunition",
   "title": "Guns & ammunition",
-  "text": "Bring your own or rent ours. Either way, what comes out of the barrel matters more than what it comes out of. Ammunition rules Shot size no larger than #7½. No more than 1⅛ oz of shot per shell. Target loads only — no slugs, no buckshot, no magnum field loads. No steel or other non-toxic shot on the sporting course without asking first. No reloads in rental guns. Factory shells are sold at the clubhouse if you would rather not haul your own. Guns Any shotgun in safe working order — over/under, semi-auto, pump, side-by-side. 12, 20, 28 gauge and .410 all welcome. Rentals are 12 and 20. Guns tra",
+  "text": "Bring your own shotgun — there are no rentals here. Ammunition is sold at the clubhouse. What comes out of the barrel matters more than what it comes out of. Ammunition rules Shot size no larger than #7½. No more than 1⅛ oz of shot per shell. Target loads only — no slugs, no buckshot, no magnum field loads. Ask first before bringing steel or other non-toxic shot. Ammunition is sold at the clubhouse if you would rather not haul your own. Guns Any shotgun in safe working order — over/under, semi-auto, pump, side-by-side. 12, 20, 28 gauge and .410 all welcome. Bring your own — we do not rent. Gun",
   "tags": [
    "shells",
    "shot",
@@ -152,7 +145,7 @@ window.SITE_INDEX = [
   "page": "Rules",
   "url": "rules.html#commands",
   "title": "Range commands",
-  "text": "Five words do almost all the talking on a clay range. Knowing them makes your first round far less bewildering. What you will hear on the station CallWhat it means Pull The shooter is mounted and ready; the trapper releases the target. Mark Same as pull, used on trap fields and in some clubs. Interchangeable here. No bird The target was broken on launch, thrown wrong, or two came out. It does not count — you get it again. Lost The target was thrown fairly and you missed it. Happens to everyone, constantly. Hold / Cease fire Stop immediately. Unload, open the action, step back from the station ",
+  "text": "Five words do almost all the talking on a clay range. Knowing them makes your first round far less bewildering. What you will hear on the station CallWhat it means Pull The shooter is mounted and ready; the trapper releases the target. Mark Same as pull, used more on the trap stand. Interchangeable here. No bird The target was broken on launch, thrown wrong, or two came out. It does not count — you get it again. Lost The target was thrown fairly and you missed it. Happens to everyone, constantly. Hold / Cease fire Stop immediately. Unload, open the action, step back from the stand and wait for",
   "tags": [
    "pull",
    "mark",
@@ -167,7 +160,7 @@ window.SITE_INDEX = [
   "page": "Rules",
   "url": "rules.html#waiver",
   "title": "Waivers, age & ID",
-  "text": "Every shooter signs a liability waiver once per season. It takes about two minutes at the desk, and you can sign it for the whole family at the same time. Shooters under 18 must be accompanied by a parent or legal guardian, who signs on their behalf and stays on the station with them. We ask for photo ID from anyone renting a shotgun. Placeholder — needs legal review The four universal safety rules are standard everywhere. House rules, shot size limits, non-toxic shot requirements and minimum ages vary by club, by property and by state. Have the owner and their insurer review this page and the",
+  "text": "Check in at the clubhouse before you head out to a stand. Shooters under 18 must be accompanied by a parent or legal guardian, who stays on the stand with them. Placeholder — needs legal review The four universal safety rules are standard everywhere. House rules, shot size limits, non-toxic shot requirements and minimum ages vary by club, by property and by state. Have the owner and their insurer review this page and the waiver language before it goes live.",
   "tags": [
    "age",
    "minor",
@@ -199,7 +192,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#weather",
   "title": "Weather",
-  "text": "We shoot in rain, wind and cold — clays fly fine in all three, and a quiet range on a drizzly morning is one of the better ways to spend it. Lightning closes the fields until thirty minutes after the last strike. High wind can shut individual stations on the course. If the sky looks unsettled, call the clubhouse before you drive out. Call ahead We are open Saturday and Sunday only, so a wasted drive costs a whole weekend. If the forecast looks rough, (205) 821-4879 will tell you in ten seconds whether we are throwing targets.",
+  "text": "We shoot in rain, wind and cold — clays fly fine in all three, and a quiet range on a drizzly morning is one of the better ways to spend it. Lightning closes the stands until thirty minutes after the last strike. If the sky looks unsettled, call the clubhouse before you drive out. Call ahead We are open Saturday and Sunday only, so a wasted drive costs a whole weekend. If the forecast looks rough, (205) 821-4879 will tell you in ten seconds whether we are throwing targets.",
   "tags": [
    "rain",
    "lightning",
@@ -231,7 +224,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#contact",
   "title": "Get in touch",
-  "text": "Phone (205) 821-4879 Email fisherfarmsshootingventures@gmail.com Groups & bookings Call for corporate outings, parties and fundraisers. Please give us as much notice as you can for larger groups. Instruction Lessons by appointment, individually or in small groups.",
+  "text": "Phone (205) 821-4879 Email fisherfarmsshootingventures@gmail.com Groups & bookings Call for corporate outings, parties and fundraisers. Please give us as much notice as you can for larger groups. Instruction Ask at the clubhouse.",
   "tags": [
    "phone",
    "email",
@@ -245,7 +238,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#firstvisit",
   "title": "Before your first visit",
-  "text": "Closed-toe shoes — the course is uneven and often wet. A hat with a brim. Falling chips of clay are harmless but startling. Layers. Open ground runs colder than the parking lot. A vest or a jacket with deep pockets to carry shells. Photo ID if you plan to rent a shotgun. Cash or card — we do not take personal checks. Everything else — gun, shells, eye and ear protection, targets, coaching — is available here. Where the club is MapEmbedded map or static image with a link to directions",
+  "text": "Closed-toe shoes — the course is uneven and often wet. A hat with a brim. Falling chips of clay are harmless but startling. Layers. Open ground runs colder than the parking lot. A vest or a jacket with deep pockets to carry shells. Your own shotgun — there are no rentals here. Cash or card — both work at the clubhouse. Ammunition, snacks and cold drinks are sold at the clubhouse. Get directions Fisher Farms Shooting Ventures 14931 Seed Town RdFosters, AL 35463 Open in Google Maps Apple Maps",
   "tags": [
    "what to bring",
    "wear",
@@ -259,7 +252,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-never-shot",
   "title": "I have never shot clays. Can I just show up?",
-  "text": "Yes. Walk in on a Saturday or Sunday, tell the desk it is your first time, and we take it from there. Orientation is free and takes about twenty minutes — gun fit, mount, eye dominance and the range commands — and then an instructor puts you on a station and stays until you are breaking targets. No appointment needed for trap, skeet or 5-stand. If you want the sporting course on a Saturday, call ahead.",
+  "text": "Yes. Come on a Saturday or Sunday, check in at the clubhouse and say it is your first time. Somebody will go over gun handling and how the stand works before you shoot anything. Bring your own shotgun — there are no rentals. Trap is the gentlest place to start.",
   "tags": []
  },
  {
@@ -278,7 +271,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-own-gun",
   "title": "Do I need my own shotgun?",
-  "text": "No. Rentals are $20 for the public and $15 for members, in 12 or 20 gauge. Photo ID required. Shells are $11 a box of twenty-five at the clubhouse.",
+  "text": "Yes. We do not rent shotguns, so bring your own — any shotgun in safe working order, in any common gauge. Ammunition is sold at the clubhouse, so shells are the one thing you can turn up without.",
   "tags": [
    "borrow",
    "loaner",
@@ -289,7 +282,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-how-long",
   "title": "How long does a round take?",
-  "text": "A round of twenty-five at trap or skeet takes twenty to thirty minutes. A hundred targets on the sporting course takes a squad of four about two hours walking, a little less with a cart.",
+  "text": "A round of twenty-five at trap or skeet takes twenty to thirty minutes. Live Action runs longer because you will want to go again.",
   "tags": [
    "time",
    "duration",
@@ -300,7 +293,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-spectators",
   "title": "Can I bring someone who is only watching?",
-  "text": "Yes, and it costs nothing. Eye and ear protection is required for everyone on the fields, spectators included — we lend both free. Watchers stay behind the shooting station.",
+  "text": "Yes. Eye and ear protection is required for everyone in the shooting area, spectators included, so bring a spare set. Watchers stay behind the stand.",
   "tags": [
    "watch",
    "watching",
@@ -312,7 +305,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-gauge",
   "title": "What gauge should a beginner shoot?",
-  "text": "A 20 gauge is lighter and kicks less, which matters a lot over a hundred targets. A 12 gauge is the most common and gives you the widest choice of shells. We rent both — try a 20 first if you are recoil-shy or small-framed.",
+  "text": "A 20 gauge is lighter and kicks less, which matters over a long morning. A 12 gauge is the most common and gives the widest choice of shells. Since you are bringing your own, borrow a 20 from somebody first if you are recoil-shy or small-framed.",
   "tags": [
    "recoil",
    "kick",
@@ -323,7 +316,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-own-shells",
   "title": "Can I bring my own shells?",
-  "text": "Yes, within the ammunition rules: shot size no larger than #7½, no more than 1⅛ oz per shell, target loads only. No slugs, no buckshot, no magnum field loads. Ask before bringing steel or other non-toxic shot onto the sporting course. Reloads are fine in your own gun but not in a rental.",
+  "text": "Yes, within the ammunition rules: target loads only, no slugs, no buckshot, no magnum field loads. Ammunition is also sold at the clubhouse if you would rather not haul your own.",
   "tags": [
    "ammo",
    "ammunition",
@@ -341,21 +334,21 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-rifles",
   "title": "Do you allow rifles or handguns?",
-  "text": "No. This is a clay target club: shotguns only, on every field and every station.",
+  "text": "No. This is a clay target range: shotguns only, on every stand.",
   "tags": []
  },
  {
   "page": "FAQ",
   "url": "faq.html#faq-shot-size",
   "title": "Why does shot size matter?",
-  "text": "Shot larger than #7½ carries further than the property's safety fall zones were designed for. It is the single most common reason a shooter gets stopped on a clay range, and it is nothing personal.",
+  "text": "Shot larger than a target load carries further than a range's safety fall zones are designed for. It is the most common reason a shooter gets stopped on a clay range, and it is nothing personal.",
   "tags": []
  },
  {
   "page": "FAQ",
   "url": "faq.html#faq-reservation",
   "title": "Do I need a reservation?",
-  "text": "Not for trap, skeet or 5-stand — those are walk-on. For the sporting course, groups of six or more should call ahead. Since we are only open Saturday and Sunday, weekend mornings are the busy stretch.",
+  "text": "Not for a normal visit — walk on and shoot. Call ahead if you are bringing a group, so the stands and machines are ready for you. Since we are only open Saturday and Sunday, weekend mornings are the busy stretch.",
   "tags": [
    "book",
    "booking",
@@ -375,7 +368,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-lessons",
   "title": "Do you offer lessons?",
-  "text": "NSCA-certified instruction by appointment, individually or in small groups. An hour with an instructor early on will save you a season of grooving in bad habits.",
+  "text": "Ask at the clubhouse or call (205) 821-4879.",
   "tags": []
  },
  {
@@ -406,8 +399,8 @@ window.SITE_INDEX = [
  {
   "page": "FAQ",
   "url": "faq.html#faq-membership-worth",
-  "title": "Is a membership worth it?",
-  "text": "Depends how often you shoot. Individual membership is $349 a year and saves $12 on every hundred sporting targets, so it pays for itself at roughly twenty-nine rounds — about every other weekend. If you come three or four times a season, buy the $80 punch card instead: ten rounds of twenty-five, transferable, never expires.",
+  "title": "Do you offer memberships?",
+  "text": "Call the clubhouse on (205) 821-4879 and ask — pricing and any membership options are set there.",
   "tags": [
    "cost",
    "value",
@@ -419,7 +412,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-payment",
   "title": "What payment do you take?",
-  "text": "Cash and major cards. No personal checks. Pay at the clubhouse before you go out rather than at the station.",
+  "text": "Cash and card are both fine. Pay at the clubhouse before you head out to a stand.",
   "tags": [
    "venmo",
    "apple pay",
@@ -443,7 +436,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-eye-ear",
   "title": "Do I need to bring eye and ear protection?",
-  "text": "No — loaners are free, and fitted at the desk before you walk out. Bring your own if you have a pair you like.",
+  "text": "Bring your own. Eye and ear protection is required for everyone in the shooting area, including anyone just watching.",
   "tags": [
    "glasses",
    "muffs",
