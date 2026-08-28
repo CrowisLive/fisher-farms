@@ -329,7 +329,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-own-shells",
   "title": "Can I bring my own shells?",
-  "text": "Yes, within the ammunition rules: target loads only, no slugs, no buckshot, no magnum field loads. Ammunition is also sold at the clubhouse if you would rather not haul your own.",
+  "text": "Yes, within the ammunition rules: target loads only, no slugs, no buckshot, no magnum field loads.Ammunition is also sold at the clubhouse if you would rather not haul your own.",
   "tags": [
    "ammo",
    "ammunition",
@@ -422,7 +422,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-membership-worth",
   "title": "Do you offer memberships?",
-  "text": "Yes. Members can shoot Monday through Friday, when the range is closed to the public. Call the clubhouse on (205) 821-4879 for pricing and how to join.",
+  "text": "Yes. Members can shoot Monday through Friday, when the range is closed to the public.Call the clubhouse on (205) 821-4879 for pricing and how to join.",
   "tags": [
    "cost",
    "value",
