@@ -53,6 +53,7 @@ SYNONYMS = {
     "faq-rain":           ["cancel", "cancelled", "closed"],
     "faq-what-to-wear":   ["clothes", "clothing", "dress", "boots"],
     "faq-own-gun":        ["borrow", "bring", "shotgun"],
+    "faq-semi-auto":      ["semi-auto", "semi automatic", "pump", "over under", "side by side", "what gun", "which shotgun", "auto"],
     "faq-spectators":     ["watch", "watching", "guest", "kids watching"],
     "faq-how-long":       ["time", "duration", "how long"],
     "faq-eye-ear":        ["glasses", "muffs", "plugs", "hearing", "protection"],

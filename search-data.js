@@ -189,7 +189,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#hours",
   "title": "Hours",
-  "text": "Year round Saturday 9:00 AM – 5:00 PM Sunday 9:00 AM – 4:00 PM Monday – Friday Members only",
+  "text": "Year round Monday – Friday Members only Saturday 9:00 AM – 5:00 PM Sunday 9:00 AM – 4:00 PM",
   "tags": [
    "open",
    "opening",
@@ -272,7 +272,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-what-to-wear",
   "title": "What should I wear?",
-  "text": "Closed-toe shoes, a hat with a brim, and layers. The course is uneven and often wet, falling chips of clay are harmless but startling, and open ground runs colder than the parking lot. A vest or a jacket with deep pockets makes carrying shells much easier.",
+  "text": "Closed-toe shoes and a hat with a brim. The ground is uneven and often wet, and falling chips of clay are harmless but startling. A vest or a jacket with deep pockets makes carrying shells much easier.",
   "tags": [
    "clothes",
    "clothing",
@@ -339,9 +339,18 @@ window.SITE_INDEX = [
  {
   "page": "FAQ",
   "url": "faq.html#faq-semi-auto",
-  "title": "Can I shoot a semi-auto or a pump?",
-  "text": "Any shotgun in safe working order is welcome — over/under, semi-auto, pump, side-by-side. The two-shell maximum applies to everyone regardless of what the magazine holds.",
-  "tags": []
+  "title": "What shotguns can I bring?",
+  "text": "Any shotgun in safe working order — over/under, semi-auto, pump, side-by-side. The two-shell maximum applies to everyone regardless of what the magazine holds.",
+  "tags": [
+   "semi-auto",
+   "semi automatic",
+   "pump",
+   "over under",
+   "side by side",
+   "what gun",
+   "which shotgun",
+   "auto"
+  ]
  },
  {
   "page": "FAQ",
