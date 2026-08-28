@@ -83,7 +83,7 @@ window.SITE_INDEX = [
   "page": "Rates",
   "url": "rates.html#groups",
   "title": "Groups & events",
-  "text": "Bringing a crowd — a company outing, a fundraiser, a birthday, a bachelor party? Call ahead so we can have the stands and the machines ready for you rather than fitting you in around a busy Saturday. Call (205) 821-4879 to talk it through. Before you come Open Saturdays and Sundays only. Bring your own shotgun. Ammunition, snacks and drinks are available at the clubhouse. Eye and ear protection is required in the shooting area. Cash and card both accepted at the clubhouse. Call ahead if you are bringing a group. We shoot in rain and cold. Lightning closes the stands.",
+  "text": "Bringing a crowd — a company outing, a fundraiser, a birthday, a bachelor party? Call ahead so we can have the stands and the machines ready for you rather than fitting you in around a busy Saturday. Call (205) 821-4879 to talk it through. Before you come Open to the public Saturdays and Sundays. Monday to Friday is members only. Bring your own shotgun. Ammunition, snacks and drinks are available at the clubhouse. Eye and ear protection is required in the shooting area. Cash and card both accepted at the clubhouse. Call ahead if you are bringing a group. We shoot in rain and cold. Lightning cl",
   "tags": [
    "corporate",
    "party",
@@ -189,7 +189,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#hours",
   "title": "Hours",
-  "text": "Open weekends, year round Saturday 9:00 AM – 5:00 PM Sunday 9:00 AM – 4:00 PM Monday – Friday Closed",
+  "text": "Year round Saturday 9:00 AM – 5:00 PM Sunday 9:00 AM – 4:00 PM Monday – Friday Members only",
   "tags": [
    "open",
    "opening",
@@ -205,7 +205,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#weather",
   "title": "Weather",
-  "text": "We shoot in rain, wind and cold — clays fly fine in all three, and a quiet range on a drizzly morning is one of the better ways to spend it. Lightning closes the stands until thirty minutes after the last strike. If the sky looks unsettled, call the clubhouse before you drive out. Call ahead We are open Saturday and Sunday only, so a wasted drive costs a whole weekend. If the forecast looks rough, (205) 821-4879 will tell you in ten seconds whether we are throwing targets.",
+  "text": "We shoot in rain, wind and cold — clays fly fine in all three, and a quiet range on a drizzly morning is one of the better ways to spend it. Lightning closes the stands until thirty minutes after the last strike. If the sky looks unsettled, call the clubhouse before you drive out. Call ahead If the forecast looks rough, (205) 821-4879 will tell you in ten seconds whether we are throwing targets — worth thirty seconds before a drive out to Fosters.",
   "tags": [
    "rain",
    "lightning",
@@ -265,7 +265,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-never-shot",
   "title": "I have never shot clays. Can I just show up?",
-  "text": "Yes. Come on a Saturday or Sunday, check in at the clubhouse and say it is your first time. Somebody will go over gun handling and how the stand works before you shoot anything. Bring your own shotgun. Trap is the gentlest place to start.",
+  "text": "Yes. Come on a Saturday or Sunday — those are our public days — check in at the clubhouse and say it is your first time. Somebody will go over gun handling and how the stand works before you shoot anything. Bring your own shotgun. Trap is the gentlest place to start.",
   "tags": []
  },
  {
@@ -361,7 +361,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-reservation",
   "title": "Do I need a reservation?",
-  "text": "Not for a normal visit — walk on and shoot. Call ahead if you are bringing a group, so the stands and machines are ready for you. Since we are only open Saturday and Sunday, weekend mornings are the busy stretch.",
+  "text": "Not for a normal visit — walk on and shoot. Call ahead if you are bringing a group, so the stands and machines are ready for you. Saturday and Sunday are the public days, so weekend mornings are the busy stretch.",
   "tags": [
    "book",
    "booking",
@@ -406,14 +406,14 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-winter",
   "title": "Are you open in the winter?",
-  "text": "Yes. We keep the same hours year round — Saturday 9:00 AM to 5:00 PM and Sunday 9:00 AM to 4:00 PM. Dress for it and bring gloves; cold does not bother a clay target one bit.",
+  "text": "Yes. We keep the same hours year round — Saturday 9:00 AM to 5:00 PM and Sunday 9:00 AM to 4:00 PM, with the week reserved for members. Dress for it and bring gloves; cold does not bother a clay target one bit.",
   "tags": []
  },
  {
   "page": "FAQ",
   "url": "faq.html#faq-membership-worth",
   "title": "Do you offer memberships?",
-  "text": "Call the clubhouse on (205) 821-4879 and ask — pricing and any membership options are set there.",
+  "text": "Yes. Members can shoot Monday through Friday, when the range is closed to the public. Call the clubhouse on (205) 821-4879 for pricing and how to join.",
   "tags": [
    "cost",
    "value",
