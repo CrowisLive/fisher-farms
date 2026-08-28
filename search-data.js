@@ -55,22 +55,35 @@ window.SITE_INDEX = [
    "how much",
    "rates",
    "fees",
-   "cart",
-   "rental"
+   "live action",
+   "duck",
+   "dove",
+   "trap",
+   "skeet"
   ]
  },
  {
   "page": "Rates",
   "url": "rates.html#clubhouse",
   "title": "At the clubhouse",
-  "text": "Ammunition is sold here, so you do not have to haul a case of shells across the county to shoot a round. Snacks and cold drinks too — an Alabama Saturday on an open field earns both. Check in at the clubhouse before you head out to a stand. Sold on site Ammunition Snacks Cold drinks Bring your own gun We do not rent shotguns, so bring one that works and that fits you. Any shotgun in safe working order is welcome — see the gun and ammunition rules before you load up.",
-  "tags": []
+  "text": "Ammunition is sold here, so you do not have to haul a case of shells across the county to shoot a round. Snacks and cold drinks too — an Alabama Saturday on an open field earns both. Check in at the clubhouse before you head out to a stand. Sold on site Ammunition Snacks Cold drinks Bring your own gun Bring one that works and that fits you. Any shotgun in safe working order is welcome — see the gun and ammunition rules before you load up.",
+  "tags": [
+   "ammo",
+   "ammunition",
+   "shells",
+   "snacks",
+   "drinks",
+   "food",
+   "buy",
+   "shop",
+   "check in"
+  ]
  },
  {
   "page": "Rates",
   "url": "rates.html#groups",
   "title": "Groups & events",
-  "text": "Bringing a crowd — a company outing, a fundraiser, a birthday, a bachelor party? Call ahead so we can have the stands and the machines ready for you rather than fitting you in around a busy Saturday. Call (205) 821-4879 to talk it through. Before you come Open Saturdays and Sundays only. Bring your own shotgun — there are no rentals. Ammunition, snacks and drinks are available at the clubhouse. Eye and ear protection is required in the shooting area. Cash and card both accepted at the clubhouse. Call ahead if you are bringing a group. We shoot in rain and cold. Lightning closes the stands.",
+  "text": "Bringing a crowd — a company outing, a fundraiser, a birthday, a bachelor party? Call ahead so we can have the stands and the machines ready for you rather than fitting you in around a busy Saturday. Call (205) 821-4879 to talk it through. Before you come Open Saturdays and Sundays only. Bring your own shotgun. Ammunition, snacks and drinks are available at the clubhouse. Eye and ear protection is required in the shooting area. Cash and card both accepted at the clubhouse. Call ahead if you are bringing a group. We shoot in rain and cold. Lightning closes the stands.",
   "tags": [
    "corporate",
    "party",
@@ -124,7 +137,7 @@ window.SITE_INDEX = [
   "page": "Rules",
   "url": "rules.html#ammunition",
   "title": "Guns & ammunition",
-  "text": "Bring your own shotgun — there are no rentals here. Ammunition is sold at the clubhouse. What comes out of the barrel matters more than what it comes out of. Ammunition rules Shot size no larger than #7½. No more than 1⅛ oz of shot per shell. Target loads only — no slugs, no buckshot, no magnum field loads. Ask first before bringing steel or other non-toxic shot. Ammunition is sold at the clubhouse if you would rather not haul your own. Guns Any shotgun in safe working order — over/under, semi-auto, pump, side-by-side. 12, 20, 28 gauge and .410 all welcome. Bring your own — we do not rent. Gun",
+  "text": "Bring your own shotgun. Ammunition is sold at the clubhouse. What comes out of the barrel matters more than what it comes out of. Ammunition rules Shot size no larger than #7½. No more than 1⅛ oz of shot per shell. Target loads only — no slugs, no buckshot, no magnum field loads. Ask first before bringing steel or other non-toxic shot. Ammunition is sold at the clubhouse if you would rather not haul your own. Guns Any shotgun in safe working order — over/under, semi-auto, pump, side-by-side. 12, 20, 28 gauge and .410 all welcome. Guns travel to and from the car cased or with the action open an",
   "tags": [
    "shells",
    "shot",
@@ -238,7 +251,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#firstvisit",
   "title": "Before your first visit",
-  "text": "Closed-toe shoes — the course is uneven and often wet. A hat with a brim. Falling chips of clay are harmless but startling. Layers. Open ground runs colder than the parking lot. A vest or a jacket with deep pockets to carry shells. Your own shotgun — there are no rentals here. Cash or card — both work at the clubhouse. Ammunition, snacks and cold drinks are sold at the clubhouse. Get directions Fisher Farms Shooting Ventures 14931 Seed Town RdFosters, AL 35463 Open in Google Maps Apple Maps",
+  "text": "Closed-toe shoes — the course is uneven and often wet. A hat with a brim. Falling chips of clay are harmless but startling. Layers. Open ground runs colder than the parking lot. A vest or a jacket with deep pockets to carry shells. Your own shotgun. Cash or card — both work at the clubhouse. Ammunition, snacks and cold drinks are sold at the clubhouse. Get directions Fisher Farms Shooting Ventures 14931 Seed Town RdFosters, AL 35463 Open in Google Maps Apple Maps",
   "tags": [
    "what to bring",
    "wear",
@@ -252,7 +265,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-never-shot",
   "title": "I have never shot clays. Can I just show up?",
-  "text": "Yes. Come on a Saturday or Sunday, check in at the clubhouse and say it is your first time. Somebody will go over gun handling and how the stand works before you shoot anything. Bring your own shotgun — there are no rentals. Trap is the gentlest place to start.",
+  "text": "Yes. Come on a Saturday or Sunday, check in at the clubhouse and say it is your first time. Somebody will go over gun handling and how the stand works before you shoot anything. Bring your own shotgun. Trap is the gentlest place to start.",
   "tags": []
  },
  {
@@ -270,12 +283,12 @@ window.SITE_INDEX = [
  {
   "page": "FAQ",
   "url": "faq.html#faq-own-gun",
-  "title": "Do I need my own shotgun?",
-  "text": "Yes. We do not rent shotguns, so bring your own — any shotgun in safe working order, in any common gauge. Ammunition is sold at the clubhouse, so shells are the one thing you can turn up without.",
+  "title": "Do I need to bring a shotgun?",
+  "text": "Yes — bring your own. Any shotgun in safe working order, in any common gauge. Ammunition is sold at the clubhouse, so shells are the one thing you can turn up without.",
   "tags": [
    "borrow",
-   "loaner",
-   "hire"
+   "bring",
+   "shotgun"
   ]
  },
  {
@@ -305,7 +318,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-gauge",
   "title": "What gauge should a beginner shoot?",
-  "text": "A 20 gauge is lighter and kicks less, which matters over a long morning. A 12 gauge is the most common and gives the widest choice of shells. Since you are bringing your own, borrow a 20 from somebody first if you are recoil-shy or small-framed.",
+  "text": "A 20 gauge is lighter and kicks less, which matters over a long morning. A 12 gauge is the most common and gives the widest choice of shells. If you are recoil-shy or small-framed, try a 20 before you commit to a morning behind a 12.",
   "tags": [
    "recoil",
    "kick",
@@ -423,7 +436,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-age",
   "title": "How old do you have to be?",
-  "text": "Shooters under 18 must be accompanied by a parent or legal guardian, who signs the waiver and stays on the station with them. Whether a particular young shooter is ready is a judgement call the instructor makes with the parent — it has more to do with size and attention than birthdays.",
+  "text": "Shooters under 18 must be accompanied by a parent or guardian, who stays on the stand with them. Whether a particular young shooter is ready has more to do with size and attention than birthdays — ask at the clubhouse if you are not sure.",
   "tags": [
    "kids",
    "children",

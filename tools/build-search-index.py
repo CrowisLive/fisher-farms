@@ -25,7 +25,8 @@ OUT = os.path.join(ROOT, "search-data.js")
 
 # Words people search for that do not appear in the copy. Keyed by block id.
 SYNONYMS = {
-    "targets":      ["price", "prices", "cost", "how much", "rates", "fees", "cart", "rental"],
+    "targets":      ["price", "prices", "cost", "how much", "rates", "fees", "live action", "duck", "dove", "trap", "skeet"],
+    "clubhouse":    ["ammo", "ammunition", "shells", "snacks", "drinks", "food", "buy", "shop", "check in"],
     "membership":   ["member", "join", "annual", "dues", "punch card", "discount"],
     "groups":       ["corporate", "party", "bachelor", "birthday", "fundraiser", "league", "lesson", "instructor", "event", "outing",
                      "pay", "payment", "card", "credit", "cash", "check", "deposit", "refund", "policy"],
@@ -51,7 +52,7 @@ SYNONYMS = {
     "faq-reservation":    ["book", "booking", "appointment", "walk in", "walk-in"],
     "faq-rain":           ["cancel", "cancelled", "closed"],
     "faq-what-to-wear":   ["clothes", "clothing", "dress", "boots"],
-    "faq-own-gun":        ["borrow", "loaner", "hire"],
+    "faq-own-gun":        ["borrow", "bring", "shotgun"],
     "faq-spectators":     ["watch", "watching", "guest", "kids watching"],
     "faq-how-long":       ["time", "duration", "how long"],
     "faq-eye-ear":        ["glasses", "muffs", "plugs", "hearing", "protection"],
