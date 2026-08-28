@@ -98,23 +98,52 @@ find-and-replace. It stays a fair trade up to roughly ten pages.
 
 ## Custom domain
 
-`tools/CNAME-when-dns-is-ready` holds the custom domain. Do NOT move it to the
-project root until the DNS records are in place at the registrar.
+The domain is `fisherfarmsshootingventures.com`, registered at Spaceship.
+`tools/CNAME-when-dns-is-ready` holds the www hostname.
 
-Why: if a file named `CNAME` is in the repo root, GitHub Pages serves the site at
-that domain and *redirects* the `username.github.io` URL to it. With DNS not yet
-pointing at GitHub, that makes the site look broken at both addresses.
+**Claim the domain on GitHub BEFORE pointing DNS at it.** If DNS points at
+GitHub Pages while no repository claims the name, someone else can publish a
+site on it. GitHub's own docs are explicit about this order.
 
-Order of operations:
-
-1. Push and enable Pages. Confirm the site works at `crowislive.github.io/fisher-farms/`.
-2. At the registrar, add a CNAME record for `www` -> `crowislive.github.io`, and four
-   A records for the bare domain pointing at GitHub's Pages IPs (check GitHub's
-   current docs for the addresses on the day you do it).
-3. Wait for DNS to resolve, then:
+1. Put the CNAME file in the repo root and push. That is what claims the
+   domain on GitHub's side:
 
        cp tools/CNAME-when-dns-is-ready CNAME
-       git add CNAME && git commit -m "Add custom domain" && git push
+       git add CNAME && git commit -m "Claim custom domain" && git push
 
-4. In Settings -> Pages, confirm the custom domain, then tick Enforce HTTPS once
-   the certificate finishes provisioning.
+   (Equivalently: Settings -> Pages -> Custom domain -> Save. GitHub then
+   commits the CNAME file for you, so `git pull` before your next push.)
+
+2. At Spaceship, open the domain's DNS records and add:
+
+       CNAME   www   crowislive.github.io
+       A       @     185.199.108.153
+       A       @     185.199.109.153
+       A       @     185.199.110.153
+       A       @     185.199.111.153
+
+   Optionally the IPv6 equivalents:
+
+       AAAA    @     2606:50c0:8000::153
+       AAAA    @     2606:50c0:8001::153
+       AAAA    @     2606:50c0:8002::153
+       AAAA    @     2606:50c0:8003::153
+
+   Remove any parking or forwarding records Spaceship added for the apex,
+   or they will fight the A records.
+
+3. Wait for DNS to propagate - minutes to a day. Check with:
+
+       dig +short www.fisherfarmsshootingventures.com
+       dig +short fisherfarmsshootingventures.com
+
+4. In Settings -> Pages, wait for the domain check to go green, then tick
+   **Enforce HTTPS**. The certificate can take up to an hour after DNS
+   resolves; the tickbox stays greyed out until it is ready.
+
+Between step 1 and step 3 the github.io URL redirects to the custom domain,
+which will not resolve yet. That gap is expected and short.
+
+Verify GitHub's IP addresses against their current docs on the day you set
+this up rather than trusting this file:
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site

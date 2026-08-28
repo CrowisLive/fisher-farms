@@ -251,7 +251,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#firstvisit",
   "title": "Before your first visit",
-  "text": "Closed-toe shoes — the course is uneven and often wet. A hat with a brim. Falling chips of clay are harmless but startling. Layers. Open ground runs colder than the parking lot. A vest or a jacket with deep pockets to carry shells. Your own shotgun. Cash or card — both work at the clubhouse. Ammunition, snacks and cold drinks are sold at the clubhouse. Get directions Fisher Farms Shooting Ventures 14931 Seed Town RdFosters, AL 35463 Open in Google Maps Apple Maps",
+  "text": "Closed-toe shoes — the course is uneven and often wet. Layers. Open ground runs colder than the parking lot. A vest or a jacket with deep pockets to carry shells. Your own shotgun. Cash or card — both work at the clubhouse. Ammunition, snacks and cold drinks are sold at the clubhouse. Get directions Fisher Farms Shooting Ventures 14931 Seed Town RdFosters, AL 35463 Open in Google Maps Apple Maps",
   "tags": [
    "what to bring",
    "wear",
@@ -272,7 +272,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-what-to-wear",
   "title": "What should I wear?",
-  "text": "Closed-toe shoes, a hat with a brim, and layers. The course is uneven and often wet, falling chips of clay are harmless but startling, and ninety acres of open field runs colder than the parking lot. A vest or a jacket with deep pockets makes carrying shells much easier.",
+  "text": "Closed-toe shoes, a hat with a brim, and layers. The course is uneven and often wet, falling chips of clay are harmless but startling, and open ground runs colder than the parking lot. A vest or a jacket with deep pockets makes carrying shells much easier.",
   "tags": [
    "clothes",
    "clothing",
