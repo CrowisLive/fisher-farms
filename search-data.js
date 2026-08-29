@@ -35,7 +35,7 @@ window.SITE_INDEX = [
   "page": "Home",
   "url": "index.html#photos",
   "title": "Where you will be standing",
-  "text": "The property Where you will be standing Off Seed Town Road in Fosters, twenty-odd minutes southwest of Tuscaloosa. The stand, the tables and somewhere to park the Ranger. Station one, menu posted on the post. Live Action runs weekends only. The pond at the edge of the property.",
+  "text": "The property Where you will be standing Off Seed Town Road in Fosters, twenty-odd minutes southwest of Tuscaloosa.",
   "tags": [
    "pictures",
    "gallery",
