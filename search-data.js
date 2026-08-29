@@ -222,7 +222,7 @@ window.SITE_INDEX = [
   "page": "Visit",
   "url": "visit.html#location",
   "title": "Find us",
-  "text": "Address 14931 Seed Town RdFosters, AL 35463 Directions Seed Town Rd, Fosters, about twenty minutes southwest of Tuscaloosa. Parking Free on-site parking.",
+  "text": "Address 14931 Seed Town RdFosters, AL 35463 Directions Seed Town Rd, Fosters, about twenty minutes southwest of Tuscaloosa. Watch for this sign at the entrance: Parking Free on-site parking.",
   "tags": [
    "address",
    "directions",
