@@ -283,6 +283,7 @@ footer.site .wrap{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:1.6rem}
 @media (max-width:760px){footer.site .wrap{grid-template-columns:1fr;gap:1.4rem}}
 footer.site p{margin:.2rem 0;font-size:.9rem;color:var(--steel-dim)}
 footer.site .brand{font-size:1.1rem;margin-bottom:.5rem}
+footer.site .credit{margin-top:1.5rem;font-size:.82rem;letter-spacing:.02em;color:rgba(233,232,224,.45)}
 footer.site h2{font-size:.78rem;font-family:"IBM Plex Mono",monospace;letter-spacing:.14em;color:var(--accent);font-weight:500;margin-bottom:.5rem}
 footer.site ul{list-style:none;margin:0;padding:0}
 footer.site li{margin-bottom:.3rem}
