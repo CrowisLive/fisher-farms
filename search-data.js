@@ -173,7 +173,7 @@ window.SITE_INDEX = [
   "page": "Rules",
   "url": "rules.html#waiver",
   "title": "Waivers, age & ID",
-  "text": "Check in at the clubhouse before you head out to a stand. Shooters under 18 must be accompanied by a parent or legal guardian, who stays on the stand with them. Placeholder — needs legal review The four universal safety rules are standard everywhere. House rules, shot size limits, non-toxic shot requirements and minimum ages vary by club, by property and by state. Have the owner and their insurer review this page and the waiver language before it goes live.",
+  "text": "Check in at the clubhouse before you head out to a stand. Shooters under 18 must be accompanied by a parent or legal guardian, who stays on the stand with them. Not sure about something? Rules differ from one range to the next. If you are unsure whether something is allowed — a particular load, a young shooter's first time, a large group — call (205) 821-4879 before you drive out. Two minutes on the phone beats finding out at the stand.",
   "tags": [
    "age",
    "minor",
