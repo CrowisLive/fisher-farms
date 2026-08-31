@@ -321,7 +321,7 @@ footer.site a:hover{opacity:1;color:var(--accent)}
 }
 .night-hero .eyebrow{color:#ff7433}
 .night-hero h1{
-  font-size:clamp(2.3rem,6vw,4rem);margin:.4rem 0 .8rem;line-height:.98;
+  font-size:clamp(1.9rem,4.6vw,3.1rem);margin:.4rem 0 .8rem;line-height:1.02;max-width:16ch;
 }
 .night-hero h1 em{
   font-style:normal;display:block;color:#ff7433;
