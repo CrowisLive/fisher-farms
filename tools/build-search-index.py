@@ -20,7 +20,7 @@ from html.parser import HTMLParser
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-PAGES = ["index.html", "rates.html", "rules.html", "visit.html", "faq.html"]
+PAGES = ["index.html", "night-shoots.html", "rates.html", "rules.html", "visit.html", "faq.html"]
 OUT = os.path.join(ROOT, "search-data.js")
 
 # Words people search for that do not appear in the copy. Keyed by block id.
@@ -43,6 +43,9 @@ SYNONYMS = {
     "disciplines":  ["sporting clays", "trap", "skeet", "5-stand", "five stand", "course", "field"],
     "first-time":   ["beginner", "new", "never", "first", "orientation", "lesson", "coach"],
     "photos":       ["pictures", "gallery", "images", "property"],
+    "what":         ["night", "night shoot", "glow", "glowing", "glow in the dark", "dark", "after dark", "lights", "evening"],
+    "night-tips":   ["flashlight", "headlamp", "first night", "what to bring at night"],
+    "photos-night": ["night photos", "under the lights"],
 
     # FAQ entries - only words the answer itself does not already contain
     "faq-age":            ["kids", "children", "minimum age", "how old", "teenager"],
