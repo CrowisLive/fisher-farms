@@ -47,7 +47,7 @@ window.SITE_INDEX = [
   "page": "Night Shoots",
   "url": "night-shoots.html#what",
   "title": "What a night shoot is",
-  "text": "The same clays, in the dark, glowing as they fly. You track a streak of light across a black field instead of an orange disc against a treeline — and it is a completely different problem to solve, even if you have shot here a hundred times in daylight. It reads harder than it is. Plenty of people break more at night than they expect, because a glowing target is easier to pick up against a dark sky than a clay is against trees. How the night runs Shooting begins at dark, around 8:30. Round sales end at 10:30. Bring your own shotgun. Ammunition, snacks and cold drinks at the clubhouse. Eye and e",
+  "text": "The same clays, in the dark, glowing as they fly. You track a streak of light across a black field instead of an orange disc against a treeline — and it is a completely different problem to solve, even if you have shot here a hundred times in daylight. How the night runs Shooting begins at dark, around 8:30. Round sales end at 10:30. Bring your own shotgun. Ammunition, snacks and cold drinks at the clubhouse. Eye and ear protection for everyone, watchers included. Call ahead Night shoots are scheduled events, not a standing weekly thing. Call (205) 821-4879 to find out when the next one is.",
   "tags": [
    "night",
    "night shoot",
@@ -74,7 +74,7 @@ window.SITE_INDEX = [
   "page": "Night Shoots",
   "url": "night-shoots.html#night-tips",
   "title": "First night shoot?",
-  "text": "Come a little before dark so you can see the ground you are walking on and get your bearings while there is still light. Bring a flashlight or a headlamp for your gear and your shells. Everything takes longer when you are hunting for a box of shells in the dark. Dress for standing still outside at night — it gets cooler out on the field than it feels in the parking lot. Same rules, less light Everything on the rules page applies exactly as it does in daylight — actions open off the stand, two shells maximum, muzzles up or down, eye and ear protection on. If anything, be more deliberate than us",
+  "text": "Come a little before dark so you can see the ground you are walking on and get your bearings while there is still light. Bring a flashlight or a headlamp for your gear and your shells. Everything takes longer when you are hunting for a box of shells in the dark. Same rules, less light Everything on the rules page applies exactly as it does in daylight — actions open off the stand, two shells maximum, muzzles up or down, eye and ear protection on. If anything, be more deliberate than usual. Staff have final say on the stand, and on a night shoot they will stop things sooner rather than later.",
   "tags": [
    "flashlight",
    "headlamp",
