@@ -4,8 +4,8 @@ window.SITE_INDEX = [
  {
   "page": "Home",
   "url": "index.html#disciplines",
-  "title": "Three stands, one weekend",
-  "text": "What you can shoot Three stands, one weekend Same shotgun, same clay target. What changes is where it comes from and how hard it is trying to fool you. The one to try Live Action Duck and dove flight patterns thrown by eight Atlas machines firing multi-directionally, so no two targets come from the same place. Duck runs high, fast, crossing, angled and looping; dove comes low and straight, rising and falling. Unpredictable on purpose — and every pattern is simulated, with no live birds. Stand Trap Targets thrown away from you from a single house. The most forgiving place to start, and the one ",
+  "title": "Four ways to break a clay",
+  "text": "What you can shoot Four ways to break a clay Same shotgun, same clay target. What changes is where it comes from and how hard it is trying to fool you. The one to try Live Action Duck and dove flight patterns thrown by eight Atlas machines firing multi-directionally, so no two targets come from the same place. Duck runs high, fast, crossing, angled and looping; dove comes low and straight, rising and falling. Unpredictable on purpose — and every pattern is simulated, with no live birds. Stand 5-Stand Sporting-style presentations thrown from one pad — crossers, incomers, a rabbit along the grou",
   "tags": [
    "sporting clays",
    "trap",
@@ -86,7 +86,7 @@ window.SITE_INDEX = [
   "page": "Rates",
   "url": "rates.html#targets",
   "title": "What we shoot",
-  "text": "Three stands, all of them weekend-only. Pricing is set at the clubhouse — call and we will tell you exactly what your round costs before you drive out. Stands StandPrice Live Action — duck & dove simulation Call Trap Call Skeet Call Call (205) 821-4879 for current pricing.",
+  "text": "Pricing is set at the clubhouse — call and we will tell you exactly what your round costs before you drive out. Stands StandPrice Live Action — duck & dove simulation Call 5-Stand Call Trap Call Skeet Call Call (205) 821-4879 for current pricing.",
   "tags": [
    "price",
    "prices",
@@ -334,7 +334,7 @@ window.SITE_INDEX = [
   "page": "FAQ",
   "url": "faq.html#faq-how-long",
   "title": "How long does a round take?",
-  "text": "A round of twenty-five at trap or skeet takes twenty to thirty minutes. Live Action runs longer because you will want to go again.",
+  "text": "A round of twenty-five at trap, skeet or 5-stand takes twenty to thirty minutes. Live Action runs longer because you will want to go again.",
   "tags": [
    "time",
    "duration",
