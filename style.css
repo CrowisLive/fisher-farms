@@ -298,20 +298,8 @@ footer.site a:hover{opacity:1;color:var(--accent)}
   background:#080b07;color:#e9e8e0;
   padding:clamp(2.2rem,5.5vw,3.6rem) 0 clamp(2rem,4.5vw,3rem);
 }
-.night-hero::before{            /* the glow, as if a target just went past */
-  content:"";position:absolute;z-index:-1;
-  width:min(760px,90vw);aspect-ratio:1;border-radius:50%;
-  right:-8%;top:-30%;
-  background:radial-gradient(circle, rgba(255,116,51,.30) 0%, rgba(255,116,51,.10) 42%, transparent 68%);
-}
-.night-hero::after{
-  content:"";position:absolute;z-index:-1;
-  width:min(520px,70vw);aspect-ratio:1;border-radius:50%;
-  left:-14%;bottom:-46%;
-  background:radial-gradient(circle, rgba(84,198,164,.16) 0%, transparent 66%);
-}
 .night-bg{position:absolute;inset:0;z-index:-2}
-.night-bg img{width:100%;height:100%;object-fit:cover;object-position:50% 62%;opacity:.55}
+.night-bg img{width:100%;height:100%;object-fit:cover;object-position:50% 62%;opacity:.72}
 .night-bg::after{
   content:"";position:absolute;inset:0;
   background:linear-gradient(100deg, rgba(4,6,4,.94) 0%, rgba(4,6,4,.82) 40%, rgba(4,6,4,.5) 72%, rgba(4,6,4,.4) 100%);
